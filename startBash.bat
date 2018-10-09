@@ -1,0 +1,1 @@
+C:\Windows\Sysnative\bash.exe -c "cd /mnt/c/Users/Default/Application\ Data ; exec bash"
